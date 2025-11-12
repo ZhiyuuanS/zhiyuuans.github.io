@@ -8,8 +8,7 @@ I'm Zhiyuan Sun, a PhD student at the [University of Waterloo](https://cs.uwater
 
 ## Research Interests
 
-- **World Model:** How can we design world models capable of reliable long-horizon rollouts, allowing agents to build a deeper understanding of the physical world and to plan by simulating future outcomes?
-
+- **World Model:** How can we build world models capable of reliable long-horizon rollouts, enabling agents to understand physical dynamics and plan by simulating future outcomes?
 
 ## News
 

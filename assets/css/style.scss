@@ -2,3 +2,12 @@
 ---
 
 @import "minimal-light";
+
+.publications img,
+.pub-row img,
+.teaser {
+  width: 250px !important;       /* adjust width as you like (120–180px good range) */
+  height: 250px !important;      /* keeps images square */
+  object-fit: cover !important;  /* crops edges so images look consistent */
+  border-radius: 5px;           /* optional: rounded corners */
+}

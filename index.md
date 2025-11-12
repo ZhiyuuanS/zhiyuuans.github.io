@@ -3,20 +3,17 @@ layout: homepage
 ---
 
 ## About Me
+I'm Zhiyuan Sun, a PhD student at the [University of Waterloo](https://cs.uwaterloo.ca/) and [Vector Institute](https://vectorinstitute.ai/), where I am fortunate to be advised by [Victor Zhong](https://www.victorzhong.com/).
 
-I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **World Model:** How can we design world models capable of reliable long-horizon rollouts, allowing agents to build a deeper understanding of the physical world and to plan by simulating future outcomes?
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2025]** Beginning my PhD at the University of Waterloo and the Vector Institute.
 
 {% include_relative _includes/publications.md %}
 

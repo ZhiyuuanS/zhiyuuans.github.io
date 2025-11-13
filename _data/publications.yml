@@ -10,7 +10,7 @@ main:
     authors: "Dekun Wu, Haochen Shi, <strong>Zhiyuan Sun</strong>, Bang Liu"
     conference: "Findings of the Association for Computational Linguistics: ACL 2024."
     pdf: "https://arxiv.org/pdf/2312.00746"
-    code: "hhttps://github.com/jackwu502/ThinkThrice"
+    code: "https://github.com/jackwu502/ThinkThrice"
     image: "/assets/img/ThinkThrice.png"
 
   - title: "OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following"

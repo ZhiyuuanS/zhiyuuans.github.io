@@ -1,0 +1,814 @@
+{
+  "prompt": "What is the capital of France?",
+  "text": "The capital of France is Paris.",
+  "tokens": [
+    {
+      "token": "The",
+      "log_prob": 0.0,
+      "entropy": 6.587108968341835e-07,
+      "normalized_entropy": 5.721490153292562e-08,
+      "confidence": 0.9999999427850985,
+      "top_k": [
+        {
+          "token": "The",
+          "logprob": 0.0,
+          "prob": 1.0
+        },
+        {
+          "token": " The",
+          "logprob": -17.125,
+          "prob": 3.6534822137210456e-08
+        },
+        {
+          "token": "the",
+          "logprob": -20.875,
+          "prob": 8.592166619174109e-10
+        },
+        {
+          "token": "Paris",
+          "logprob": -21.375,
+          "prob": 5.211412487888539e-10
+        },
+        {
+          "token": "As",
+          "logprob": -23.75,
+          "prob": 4.8473687062702556e-11
+        },
+        {
+          "token": " the",
+          "logprob": -24.125,
+          "prob": 3.331544542166412e-11
+        },
+        {
+          "token": "There",
+          "logprob": -24.5,
+          "prob": 2.289734845645553e-11
+        },
+        {
+          "token": "\tThe",
+          "logprob": -25.125,
+          "prob": 1.2256067444099483e-11
+        },
+        {
+          "token": "Capital",
+          "logprob": -25.75,
+          "prob": 6.560200168153779e-12
+        },
+        {
+          "token": "I",
+          "logprob": -25.875,
+          "prob": 5.789356328730652e-12
+        },
+        {
+          "token": "In",
+          "logprob": -26.0,
+          "prob": 5.109089028063325e-12
+        },
+        {
+          "token": ".The",
+          "logprob": -26.125,
+          "prob": 4.508755242294825e-12
+        },
+        {
+          "token": "This",
+          "logprob": -26.125,
+          "prob": 4.508755242294825e-12
+        },
+        {
+          "token": "What",
+          "logprob": -26.125,
+          "prob": 4.508755242294825e-12
+        },
+        {
+          "token": "A",
+          "logprob": -26.375,
+          "prob": 3.5114221133765118e-12
+        },
+        {
+          "token": "La",
+          "logprob": -26.5,
+          "prob": 3.0988191387218256e-12
+        },
+        {
+          "token": "It",
+          "logprob": -26.875,
+          "prob": 2.129785170955785e-12
+        },
+        {
+          "token": "According",
+          "logprob": -27.125,
+          "prob": 1.6586783589142312e-12
+        },
+        {
+          "token": "France",
+          "logprob": -27.375,
+          "prob": 1.2917800047859961e-12
+        },
+        {
+          "token": "THE",
+          "logprob": -27.375,
+          "prob": 1.2917800047859961e-12
+        }
+      ],
+      "position": 0,
+      "sentence_id": 0
+    },
+    {
+      "token": " capital",
+      "log_prob": 0.0,
+      "entropy": 2.0357155445958606e-07,
+      "normalized_entropy": 1.7682000554853107e-08,
+      "confidence": 0.9999999823179995,
+      "top_k": [
+        {
+          "token": " capital",
+          "logprob": 0.0,
+          "prob": 1.0
+        },
+        {
+          "token": "capital",
+          "logprob": -18.5,
+          "prob": 9.237449661970594e-09
+        },
+        {
+          "token": " Capital",
+          "logprob": -20.5,
+          "prob": 1.2501528663867426e-09
+        },
+        {
+          "token": " capitale",
+          "logprob": -23.0,
+          "prob": 1.026187963170189e-10
+        },
+        {
+          "token": "Capital",
+          "logprob": -23.25,
+          "prob": 7.991959892953932e-11
+        },
+        {
+          "token": " capitals",
+          "logprob": -23.5,
+          "prob": 6.224144622907783e-11
+        },
+        {
+          "token": " capit",
+          "logprob": -24.625,
+          "prob": 2.020683909022217e-11
+        },
+        {
+          "token": " cap",
+          "logprob": -25.75,
+          "prob": 6.560200168153779e-12
+        },
+        {
+          "token": " capitalize",
+          "logprob": -25.75,
+          "prob": 6.560200168153779e-12
+        },
+        {
+          "token": " capita",
+          "logprob": -25.75,
+          "prob": 6.560200168153779e-12
+        },
+        {
+          "token": " капитал",
+          "logprob": -26.875,
+          "prob": 2.129785170955785e-12
+        },
+        {
+          "token": " kapital",
+          "logprob": -27.0,
+          "prob": 1.8795288165390832e-12
+        },
+        {
+          "token": " capitalist",
+          "logprob": -27.125,
+          "prob": 1.6586783589142312e-12
+        },
+        {
+          "token": "apital",
+          "logprob": -27.25,
+          "prob": 1.463778514125909e-12
+        },
+        {
+          "token": " capt",
+          "logprob": -27.375,
+          "prob": 1.2917800047859961e-12
+        },
+        {
+          "token": "资本",
+          "logprob": -27.5,
+          "prob": 1.1399918530443554e-12
+        },
+        {
+          "token": " CAPITAL",
+          "logprob": -27.5,
+          "prob": 1.1399918530443554e-12
+        },
+        {
+          "token": "-cap",
+          "logprob": -27.625,
+          "prob": 1.006039279283317e-12
+        },
+        {
+          "token": " captain",
+          "logprob": -27.75,
+          "prob": 8.878265478459658e-13
+        },
+        {
+          "token": ".cap",
+          "logprob": -27.875,
+          "prob": 7.835041785064389e-13
+        }
+      ],
+      "position": 1,
+      "sentence_id": 0
+    },
+    {
+      "token": " of",
+      "log_prob": 0.0,
+      "entropy": 2.7008573818089733e-09,
+      "normalized_entropy": 2.3459349146546026e-10,
+      "confidence": 0.9999999997654065,
+      "top_k": [
+        {
+          "token": " of",
+          "logprob": 0.0,
+          "prob": 1.0
+        },
+        {
+          "token": " city",
+          "logprob": -23.375,
+          "prob": 7.05287985111216e-11
+        },
+        {
+          "token": "of",
+          "logprob": -24.75,
+          "prob": 1.783247290814639e-11
+        },
+        {
+          "token": " của",
+          "logprob": -25.625,
+          "prob": 7.433680672352188e-12
+        },
+        {
+          "token": " של",
+          "logprob": -26.125,
+          "prob": 4.508755242294825e-12
+        },
+        {
+          "token": " Of",
+          "logprob": -26.625,
+          "prob": 2.7346982915918745e-12
+        },
+        {
+          "token": " and",
+          "logprob": -26.625,
+          "prob": 2.7346982915918745e-12
+        },
+        {
+          "token": "_of",
+          "logprob": -27.0,
+          "prob": 1.8795288165390832e-12
+        },
+        {
+          "token": "ของ",
+          "logprob": -27.75,
+          "prob": 8.878265478459658e-13
+        },
+        {
+          "token": " de",
+          "logprob": -27.75,
+          "prob": 8.878265478459658e-13
+        },
+        {
+          "token": "\tof",
+          "logprob": -28.125,
+          "prob": 6.101936677605324e-13
+        },
+        {
+          "token": " or",
+          "logprob": -28.5,
+          "prob": 4.1937956583795446e-13
+        },
+        {
+          "token": ",",
+          "logprob": -28.875,
+          "prob": 2.8823507934443873e-13
+        },
+        {
+          "token": ".of",
+          "logprob": -29.125,
+          "prob": 2.2447770550209742e-13
+        },
+        {
+          "token": " OF",
+          "logprob": -29.875,
+          "prob": 1.0603575991523846e-13
+        },
+        {
+          "token": "Of",
+          "logprob": -29.875,
+          "prob": 1.0603575991523846e-13
+        },
+        {
+          "token": " (",
+          "logprob": -30.25,
+          "prob": 7.287724095819692e-14
+        },
+        {
+          "token": " ",
+          "logprob": -30.5,
+          "prob": 5.675685232632723e-14
+        },
+        {
+          "token": " the",
+          "logprob": -30.6875,
+          "prob": 4.705308323479026e-14
+        },
+        {
+          "token": " in",
+          "logprob": -30.8125,
+          "prob": 4.152420021175756e-14
+        }
+      ],
+      "position": 2,
+      "sentence_id": 0
+    },
+    {
+      "token": " France",
+      "log_prob": 0.0,
+      "entropy": 4.379698848803097e-07,
+      "normalized_entropy": 3.804158084866419e-08,
+      "confidence": 0.9999999619584191,
+      "top_k": [
+        {
+          "token": " France",
+          "logprob": 0.0,
+          "prob": 1.0
+        },
+        {
+          "token": "France",
+          "logprob": -17.625,
+          "prob": 2.215948977336598e-08
+        },
+        {
+          "token": " Paris",
+          "logprob": -20.0,
+          "prob": 2.061153622438558e-09
+        },
+        {
+          "token": " Italy",
+          "logprob": -24.0,
+          "prob": 3.775134544279098e-11
+        },
+        {
+          "token": " Frankreich",
+          "logprob": -24.125,
+          "prob": 3.331544542166412e-11
+        },
+        {
+          "token": " فرنسا",
+          "logprob": -24.375,
+          "prob": 2.5946094982764667e-11
+        },
+        {
+          "token": " Spain",
+          "logprob": -24.5,
+          "prob": 2.289734845645553e-11
+        },
+        {
+          "token": " the",
+          "logprob": -24.625,
+          "prob": 2.020683909022217e-11
+        },
+        {
+          "token": " france",
+          "logprob": -24.625,
+          "prob": 2.020683909022217e-11
+        },
+        {
+          "token": " Germany",
+          "logprob": -24.625,
+          "prob": 2.020683909022217e-11
+        },
+        {
+          "token": " Francia",
+          "logprob": -24.875,
+          "prob": 1.57371021068629e-11
+        },
+        {
+          "token": " Фран",
+          "logprob": -25.0,
+          "prob": 1.3887943864964021e-11
+        },
+        {
+          "token": " Japan",
+          "logprob": -25.5,
+          "prob": 8.423463754468647e-12
+        },
+        {
+          "token": " Frankrijk",
+          "logprob": -25.5,
+          "prob": 8.423463754468647e-12
+        },
+        {
+          "token": " Frances",
+          "logprob": -25.875,
+          "prob": 5.789356328730652e-12
+        },
+        {
+          "token": " Finland",
+          "logprob": -26.0,
+          "prob": 5.109089028063325e-12
+        },
+        {
+          "token": "-France",
+          "logprob": -26.25,
+          "prob": 3.97896253583724e-12
+        },
+        {
+          "token": " Switzerland",
+          "logprob": -26.25,
+          "prob": 3.97896253583724e-12
+        },
+        {
+          "token": " França",
+          "logprob": -26.625,
+          "prob": 2.7346982915918745e-12
+        },
+        {
+          "token": " Portugal",
+          "logprob": -26.875,
+          "prob": 2.129785170955785e-12
+        }
+      ],
+      "position": 3,
+      "sentence_id": 0
+    },
+    {
+      "token": " is",
+      "log_prob": 0.0,
+      "entropy": 3.678280531800379e-08,
+      "normalized_entropy": 3.194913875706126e-09,
+      "confidence": 0.9999999968050861,
+      "top_k": [
+        {
+          "token": " is",
+          "logprob": 0.0,
+          "prob": 1.0
+        },
+        {
+          "token": " هو",
+          "logprob": -21.25,
+          "prob": 5.905303998944039e-10
+        },
+        {
+          "token": "是",
+          "logprob": -22.0,
+          "prob": 2.7894680928689246e-10
+        },
+        {
+          "token": "is",
+          "logprob": -22.25,
+          "prob": 2.172439935079017e-10
+        },
+        {
+          "token": " Is",
+          "logprob": -22.25,
+          "prob": 2.172439935079017e-10
+        },
+        {
+          "token": " are",
+          "logprob": -23.125,
+          "prob": 9.056076989672867e-11
+        },
+        {
+          "token": ",",
+          "logprob": -23.125,
+          "prob": 9.056076989672867e-11
+        },
+        {
+          "token": "\tis",
+          "logprob": -23.625,
+          "prob": 5.4927883509546835e-11
+        },
+        {
+          "token": " and",
+          "logprob": -24.25,
+          "prob": 2.9400777392844726e-11
+        },
+        {
+          "token": " in",
+          "logprob": -24.6875,
+          "prob": 1.898256859952468e-11
+        },
+        {
+          "token": " Paris",
+          "logprob": -25.0625,
+          "prob": 1.304651588236747e-11
+        },
+        {
+          "token": " είναι",
+          "logprob": -25.375,
+          "prob": 9.545034922840628e-12
+        },
+        {
+          "token": " adalah",
+          "logprob": -25.4375,
+          "prob": 8.966730491527304e-12
+        },
+        {
+          "token": "คือ",
+          "logprob": -25.5,
+          "prob": 8.423463754468647e-12
+        },
+        {
+          "token": "は",
+          "logprob": -25.75,
+          "prob": 6.560200168153779e-12
+        },
+        {
+          "token": ".is",
+          "logprob": -26.0,
+          "prob": 5.109089028063325e-12
+        },
+        {
+          "token": " является",
+          "logprob": -26.0625,
+          "prob": 4.799544972039692e-12
+        },
+        {
+          "token": " ist",
+          "logprob": -26.0625,
+          "prob": 4.799544972039692e-12
+        },
+        {
+          "token": " ",
+          "logprob": -26.1875,
+          "prob": 4.235583571640497e-12
+        },
+        {
+          "token": " has",
+          "logprob": -26.4375,
+          "prob": 3.298675802357997e-12
+        }
+      ],
+      "position": 4,
+      "sentence_id": 0
+    },
+    {
+      "token": " Paris",
+      "log_prob": -1.0325924449716695e-05,
+      "entropy": 0.00014242817562618718,
+      "normalized_entropy": 1.2371154148400064e-05,
+      "confidence": 0.9999876288458516,
+      "top_k": [
+        {
+          "token": " Paris",
+          "logprob": -1.0325924449716695e-05,
+          "prob": 0.9999896741288624
+        },
+        {
+          "token": "Paris",
+          "logprob": -12.00001049041748,
+          "prob": 6.144147898313616e-06
+        },
+        {
+          "token": " Пари",
+          "logprob": -13.25001049041748,
+          "prob": 1.7603278454853063e-06
+        },
+        {
+          "token": " باريس",
+          "logprob": -13.37501049041748,
+          "prob": 1.553483871174197e-06
+        },
+        {
+          "token": " París",
+          "logprob": -14.62501049041748,
+          "prob": 4.4508058093634505e-07
+        },
+        {
+          "token": " Parijs",
+          "logprob": -16.000009536743164,
+          "prob": 1.1253410150531838e-07
+        },
+        {
+          "token": " PAR",
+          "logprob": -16.375009536743164,
+          "prob": 7.734348146298034e-08
+        },
+        {
+          "token": "巴黎",
+          "logprob": -16.375009536743164,
+          "prob": 7.734348146298034e-08
+        },
+        {
+          "token": " Pari",
+          "logprob": -17.875009536743164,
+          "prob": 1.7257663405271917e-08
+        },
+        {
+          "token": " Par",
+          "logprob": -18.000009536743164,
+          "prob": 1.5229834500999985e-08
+        },
+        {
+          "token": " 巴黎",
+          "logprob": -18.125009536743164,
+          "prob": 1.3440281774008495e-08
+        },
+        {
+          "token": " paris",
+          "logprob": -18.125009536743164,
+          "prob": 1.3440281774008495e-08
+        },
+        {
+          "token": " **",
+          "logprob": -18.375009536743164,
+          "prob": 1.0467301970298147e-08
+        },
+        {
+          "token": "PAR",
+          "logprob": -18.687509536743164,
+          "prob": 7.658041714374101e-09
+        },
+        {
+          "token": " France",
+          "logprob": -18.687509536743164,
+          "prob": 7.658041714374101e-09
+        },
+        {
+          "token": " Brussels",
+          "logprob": -19.250009536743164,
+          "prob": 4.3634206399233156e-09
+        },
+        {
+          "token": " Madrid",
+          "logprob": -19.500009536743164,
+          "prob": 3.398235411242209e-09
+        },
+        {
+          "token": " Berlin",
+          "logprob": -20.000009536743164,
+          "prob": 2.061133965839569e-09
+        },
+        {
+          "token": " London",
+          "logprob": -20.125009536743164,
+          "prob": 1.818944340665323e-09
+        },
+        {
+          "token": ",",
+          "logprob": -20.875009536743164,
+          "prob": 8.592084678278565e-10
+        }
+      ],
+      "position": 5,
+      "sentence_id": 0
+    },
+    {
+      "token": ".",
+      "log_prob": -6.704273118884885e-07,
+      "entropy": 1.1734960177758503e-05,
+      "normalized_entropy": 1.019285690110984e-06,
+      "confidence": 0.9999989807143099,
+      "top_k": [
+        {
+          "token": ".",
+          "logprob": -6.704273118884885e-07,
+          "prob": 0.9999993295729128
+        },
+        {
+          "token": ".\n",
+          "logprob": -14.500000953674316,
+          "prob": 5.043471815847051e-07
+        },
+        {
+          "token": ".\n\n",
+          "logprob": -16.5,
+          "prob": 6.82560337633487e-08
+        },
+        {
+          "token": ".\"",
+          "logprob": -19.125,
+          "prob": 4.944450501938644e-09
+        },
+        {
+          "token": "۔",
+          "logprob": -20.625,
+          "prob": 1.103256032343554e-09
+        },
+        {
+          "token": "!",
+          "logprob": -20.875,
+          "prob": 8.592166619174109e-10
+        },
+        {
+          "token": "।",
+          "logprob": -20.875,
+          "prob": 8.592166619174109e-10
+        },
+        {
+          "token": ".P",
+          "logprob": -21.0,
+          "prob": 7.582560427911907e-10
+        },
+        {
+          "token": ".I",
+          "logprob": -21.125,
+          "prob": 6.691586091292782e-10
+        },
+        {
+          "token": ".user",
+          "logprob": -21.375,
+          "prob": 5.211412487888539e-10
+        },
+        {
+          "token": "<|end|>",
+          "logprob": -21.375,
+          "prob": 5.211412487888539e-10
+        },
+        {
+          "token": "。",
+          "logprob": -21.625,
+          "prob": 4.058652126475693e-10
+        },
+        {
+          "token": ".A",
+          "logprob": -21.75,
+          "prob": 3.581747930283181e-10
+        },
+        {
+          "token": ".C",
+          "logprob": -21.875,
+          "prob": 3.1608814543136926e-10
+        },
+        {
+          "token": ".B",
+          "logprob": -22.125,
+          "prob": 2.4616969518153846e-10
+        },
+        {
+          "token": ".r",
+          "logprob": -22.125,
+          "prob": 2.4616969518153846e-10
+        },
+        {
+          "token": ".S",
+          "logprob": -22.125,
+          "prob": 2.4616969518153846e-10
+        },
+        {
+          "token": ".G",
+          "logprob": -22.125,
+          "prob": 2.4616969518153846e-10
+        },
+        {
+          "token": ".The",
+          "logprob": -22.25,
+          "prob": 2.172439935079017e-10
+        },
+        {
+          "token": ".D",
+          "logprob": -22.25,
+          "prob": 2.172439935079017e-10
+        }
+      ],
+      "position": 6,
+      "sentence_id": 0
+    }
+  ],
+  "sentences": [
+    {
+      "text": "The capital of France is Paris.",
+      "confidence": 0.9999980704560245,
+      "avg_entropy": 1.9295439755449516e-06,
+      "token_count": 7,
+      "weakest_token": {
+        "token": " Paris",
+        "confidence": 0.9999876288458516
+      },
+      "start_idx": 0,
+      "end_idx": 6
+    }
+  ],
+  "contextual_uncertainty": [
+    5.721490153292562e-08,
+    3.744845104388936e-08,
+    2.5043831859748065e-08,
+    2.8293269106977095e-08,
+    2.32735980607229e-08,
+    2.0812536897839463e-06,
+    1.9295439755449516e-06
+  ],
+  "metadata": {
+    "model": "openai/gpt-4o-mini",
+    "total_tokens": 7,
+    "total_sentences": 1,
+    "inference_time_s": 0.654
+  },
+  "id": "cc_04",
+  "category": "correct_confident"
+}
